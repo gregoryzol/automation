@@ -6,6 +6,7 @@
 *.project
 target/
 test-output/
+.recommenders/
 
 # Log file
 *.log
